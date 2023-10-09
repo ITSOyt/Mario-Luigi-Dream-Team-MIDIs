@@ -30,7 +30,7 @@ then I'll post a link whenever I add the next oringinal transcription.
 Becuase I made my Github account the night before typing this, I have no idea how anything 
 works here. I'm pretty sure you can do stuff like contribute to this repository and then have 
 your own little branch or something, but I'm not sure. The point is, there's no need to do 
-that (unless, of course, I lose interest in this project, but I feel like that probablt won't 
+that (unless, of course, I lose interest in this project, but I feel like that probably won't 
 happen). Just send me the transcription you want me to add, and I'll add it with credit to whoever 
 made it.
 
